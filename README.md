@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mridul%20Ahluwalia&fontSize=50&fontColor=c77dff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Rust%20%7C%20Blockchain%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1b0b12,50:4b0f1d,100:20140e&height=200&section=header&text=Mridul%20Ahluwalia&fontSize=50&fontColor=f4d58d&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Rust%20%7C%20Blockchain%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN+%2B+Next.js);Building+real-time+systems+with+WebSockets+%26+Rust;Exploring+Blockchain+%26+DeSci+with+Solidity;450%2B+problems+solved+%7C+300%2B+on+LeetCode;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=22&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(MERN+%2B+Next.js);Building+real-time+systems+with+WebSockets+%26+Rust;Exploring+Blockchain+%26+DeSci+with+Solidity;450%2B+problems+solved+%7C+300%2B+on+LeetCode;Always+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,7 +18,7 @@ I build full-stack and real-time systems, from React/Node.js dashboards to a Rus
 
 ---
 
-### 🚀 Featured Projects
+### 🪄 Spellbook of Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -28,7 +28,7 @@ I build full-stack and real-time systems, from React/Node.js dashboards to a Rus
 
 ---
 
-### 🏆 Achievements
+### 🏆 Honors & House Points
 
 - 🥇 **Winner – Web-CMD Hackathon:** built a self-learning web workflow engine for autonomous workflow generation and execution.
 - 🎯 **Smart India Hackathon:** Top 10 overall in the internal round, First Position in Round 1 among college submissions.
@@ -56,7 +56,7 @@ _Stats update automatically every day via GitHub Actions._
 
 ---
 
-### 💻 Tech Stack
+### 🧙 Wizard's Toolkit
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -72,7 +72,7 @@ _Stats update automatically every day via GitHub Actions._
 
 ---
 
-### 🤝 Let's Collaborate
+### 🦉 Owl Post
 
 Open to **internships, open-source contributions, and collaborations** on full-stack, real-time, or blockchain projects.
 
@@ -100,16 +100,16 @@ Open to **internships, open-source contributions, and collaborations** on full-s
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-06-stack&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-06-stack&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-06-stack&show_icons=true&include_all_commits=true&bg_color=1b0b12&title_color=f4d58d&text_color=e8dcc4&icon_color=2e8b57&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-06-stack&layout=compact&bg_color=1b0b12&title_color=f4d58d&text_color=e8dcc4&icon_color=2e8b57&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mridul-06-stack&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mridul-06-stack&background=1b0b12&border=4b0f1d&ring=f4d58d&fire=d4af37&currStreakLabel=f4d58d&sideLabels=e8dcc4&dates=9b8b78&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridul-06-stack&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridul-06-stack&bg_color=1b0b12&color=f4d58d&line=2e8b57&point=d4af37&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
@@ -118,4 +118,4 @@ Open to **internships, open-source contributions, and collaborations** on full-s
   <img src="https://komarev.com/ghpvc/?username=Mridul-06-stack&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:20140e,50:4b0f1d,100:1b0b12&height=120&section=footer" width="100%"/>
