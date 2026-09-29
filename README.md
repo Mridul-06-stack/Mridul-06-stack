@@ -106,8 +106,8 @@ Open to **internships, open-source contributions, and collaborations** on full-s
 ### 📊 Gringotts Vault: GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mridul-06-stack&show_icons=true&include_all_commits=true&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-06-stack&layout=compact&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Mridul-06-stack&show_icons=true&include_all_commits=true&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mridul-06-stack&layout=compact&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
@@ -115,7 +115,7 @@ Open to **internships, open-source contributions, and collaborations** on full-s
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridul-06-stack&bg_color=1a0505&color=f4d58d&line=ae0001&point=d3a625&area=true&area_color=740001&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=Mridul-06-stack&bg_color=1a0505&color=f4d58d&line=ae0001&point=d3a625&area=true&area_color=740001&hide_border=true" alt="Activity Graph" width="95%"/>
 </div>
 
 ---
