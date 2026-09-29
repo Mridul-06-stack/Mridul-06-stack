@@ -24,13 +24,34 @@ I build full-stack and real-time systems, from React/Node.js dashboards to a Rus
 
 ---
 
+### 🦉 Owl Post
+
+Open to **internships, open-source contributions, and collaborations** on full-stack, real-time, or blockchain projects.
+
+📫 **Send an owl:** [mridul.walia06@gmail.com](mailto:mridul.walia06@gmail.com)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-740001?style=for-the-badge&logo=linkedin&logoColor=D3A625" alt="LinkedIn"/></a>&nbsp;
+<a href="https://github.com/Mridul-06-stack" target="_blank"><img src="https://img.shields.io/badge/GitHub-740001?style=for-the-badge&logo=github&logoColor=D3A625" alt="GitHub"/></a>&nbsp;
+<a href="https://leetcode.com/u/Mridul_Ahluwalia" target="_blank"><img src="https://img.shields.io/badge/LeetCode-740001?style=for-the-badge&logo=leetcode&logoColor=D3A625" alt="LeetCode"/></a>&nbsp;
+<a href="mailto:mridul.walia06@gmail.com"><img src="https://img.shields.io/badge/Email-740001?style=for-the-badge&logo=gmail&logoColor=D3A625" alt="Email"/></a>
+</p>
+
+---
+
 ### 📜 The Restricted Section: Spellbook of Projects
 
-| Spell | What it does | Ingredients |
-|---|---|---|
-| 🧬 **[HelixVault](https://github.com/Mridul-06-stack/HelixVault)** | Privacy-preserving genomic NFT platform. Encrypts DNA data (AES-256-GCM), mints ERC-721 NFTs on Sepolia, stores metadata on IPFS, and runs a research bounty market. | Solidity · Python · FastAPI · IPFS |
-| 🦌 **[Geofencing System](https://github.com/Mridul-06-stack/Geofencing-System)** | Real-time wildlife tracking, like a Marauder's Map for animals. ESP32 telemetry feeds a Rust backend that runs ray-casting point-in-polygon checks and triggers device alerts live. | Rust (Axum) · Next.js · WebSockets · Leaflet |
-| 🧺 **[DBH Laundry Booking](https://github.com/Mridul-06-stack/DBH-Laundry-Booking)** | Hostel laundry slot booking with real-time sync, 2 slots/week fair-use limits, admin analytics, and QR verification. | React · Node.js · MongoDB · Socket.IO |
+<div align="center">
+  <a href="https://github.com/Mridul-06-stack/HelixVault">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mridul-06-stack&repo=HelixVault&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="HelixVault Card" />
+  </a>
+  <a href="https://github.com/Mridul-06-stack/Geofencing-System">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mridul-06-stack&repo=Geofencing-System&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="Geofencing System Card" />
+  </a>
+  <a href="https://github.com/Mridul-06-stack/DBH-Laundry-Booking">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mridul-06-stack&repo=DBH-Laundry-Booking&bg_color=1a0505&title_color=d3a625&text_color=e8dcc4&icon_color=ae0001&hide_border=true" alt="DBH Laundry Booking Card" />
+  </a>
+</div>
 
 ---
 
@@ -78,20 +99,7 @@ _Stats update automatically every day via GitHub Actions._
 
 ---
 
-### 🦉 Owl Post
 
-Open to **internships, open-source contributions, and collaborations** on full-stack, real-time, or blockchain projects.
-
-📫 **Send an owl:** [mridul.walia06@gmail.com](mailto:mridul.walia06@gmail.com)
-
-<p align="left">
-<a href="https://www.linkedin.com/in/LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-740001?style=for-the-badge&logo=linkedin&logoColor=D3A625" alt="LinkedIn"/></a>&nbsp;
-<a href="https://github.com/Mridul-06-stack" target="_blank"><img src="https://img.shields.io/badge/GitHub-740001?style=for-the-badge&logo=github&logoColor=D3A625" alt="GitHub"/></a>&nbsp;
-<a href="https://leetcode.com/u/Mridul_Ahluwalia" target="_blank"><img src="https://img.shields.io/badge/LeetCode-740001?style=for-the-badge&logo=leetcode&logoColor=D3A625" alt="LeetCode"/></a>&nbsp;
-<a href="mailto:mridul.walia06@gmail.com"><img src="https://img.shields.io/badge/Email-740001?style=for-the-badge&logo=gmail&logoColor=D3A625" alt="Email"/></a>
-</p>
-
----
 
 ### 🐍 The Serpent's Path: Contribution Snake
 
